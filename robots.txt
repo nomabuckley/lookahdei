@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahfeeleur.wjweb.co.uk/sitemap.xml
